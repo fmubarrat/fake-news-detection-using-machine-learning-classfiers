@@ -1,5 +1,5 @@
 # fake-news-detection-using-machine-learning-classfiers
-Six Machine Learning Classifiers have used in this project (Logistic Regression, SVM, Decision Tree, Random Forest, Naive Bayes, KNN )
+Six Machine Learning Classifiers have been used in this project (Logistic Regression, SVM, Decision Tree, Random Forest, Naive Bayes, KNN )
 
 Here are the steps you’ll need to take to run the project:
 
